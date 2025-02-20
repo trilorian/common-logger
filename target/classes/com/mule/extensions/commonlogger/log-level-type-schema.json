@@ -1,0 +1,5 @@
+{
+  "type": "string",
+  "default": "INFO",
+  "enum": ["DEBUG","ERROR","INFO","TRACE","WARN"]
+}
